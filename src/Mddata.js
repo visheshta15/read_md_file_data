@@ -37,9 +37,9 @@ function Mddata() {
 
   return (
     <div className="App">
-        <Link className="app_navDiv" to="/rowData" style={{ textDecoration: 'none'}}>
+        {/* <Link className="app_navDiv" to="/rowData" style={{ textDecoration: 'none'}}>
             <h3 className="app_nav">Check raw data of .md file</h3>
-        </Link>
+        </Link> */}
       <Markdown>
         {post}
       </Markdown>
