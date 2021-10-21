@@ -1,0 +1,2 @@
+(this.webpackJsonpread_data_from_mdfile=this.webpackJsonpread_data_from_mdfile||[]).push([[4],{18:function(a,t,d){"use strict";d.r(t),t.default=d.p+"static/media/data.22896c65.md"}}]);
+//# sourceMappingURL=4.a9f06cc8.chunk.js.map
